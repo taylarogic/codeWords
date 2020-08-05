@@ -1,3 +1,3 @@
 ## codeWords
-# letters
-idk if im doing this right, ok?
+# hello
+idk if im doing this right, ok
