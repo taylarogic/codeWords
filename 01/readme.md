@@ -10,7 +10,6 @@ Here we were introduced to the idea of digital performance art and e-literature 
 
 
 We were also introduced to Processing, and how we could code shapes, lines and colours. 
-
-
-
 Our task was to create our initials with these new skills we had learnt. 
+
+![](t_r_screenshot.png)
