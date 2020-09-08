@@ -11,4 +11,4 @@ We also made further progress on our assignment where we were tasked with reinte
 
 More learning on Processing was done, with experimentation with spirographs. We also were introduced to Github and created our first repository. 
 
-![](Spirograph)
+![](spirograph.png)
