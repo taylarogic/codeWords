@@ -2,7 +2,8 @@
 
 Karen ann demonstrated how to introduce typography to our Javascript sketch. The functions we used were the preload() and the loadFont(), as well as type related functions to position words on the page.We also added movement (spinning) linked to mouse coordinates mouseX and mouseY.
 
-
+![](spintypetest2.png)
+![](spintypetest.png)
 
 We continued learning how to use Github to record our learning to form our SKO. 
 
