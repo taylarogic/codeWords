@@ -1,6 +1,8 @@
-#this is what i did in week four.
+# this is what i did in week four.
 
 Karen ann demonstrated how to introduce typography to our Javascript sketch. The functions we used were the preload() and the loadFont(), as well as type related functions to position words on the page.We also added movement (spinning) linked to mouse coordinates mouseX and mouseY.
+
+
 
 We continued learning how to use Github to record our learning to form our SKO. 
 
