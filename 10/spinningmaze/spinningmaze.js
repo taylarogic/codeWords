@@ -1,16 +1,23 @@
+var song;
+var analyzer;
+function preload() {
+ song = loadSound ('data/Mayhem-Pure-Fucking-Armageddon-s.mp3'); 
+} 
 let type
 
 let typespin = [];
 function makeTypespin() {
   let thisSpin = {x: mouseX,
                   y: mouseY,
-                  speed: random(-0.5, 0.5)};
+                  speed: random(-0.5, 0.50)};
   return thisSpin;
 }
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(255);
+  analyzer = new p5.Amplitude();
+  analyzer.setInput(song);
   textSize(25);
   smooth();
   textAlign(CENTER);
@@ -112,6 +119,8 @@ function setup() {
 
 function draw() {
   background(255);
+  var volume = analyzer.getLevel();
+  volume*=400;
   textAlign(CENTER, CENTER);
   for (let i = 0; i < typespin.length; i++) {
     push();
@@ -138,6 +147,9 @@ function draw() {
   noFill();
   if (mouseX > 650 && mouseX < 750 && mouseY > 350 && mouseY < 450) {
   fill(0,0,255);
+  }
+  if (mouseX > 650 && mouseX < 750 && mouseY > 350 && mouseY < 450) {
+  song.play();
  }
 }
 
