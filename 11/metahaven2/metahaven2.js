@@ -17,7 +17,7 @@ function makeTypespin() {
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
-  background(0); 
+  background(0,0,255); 
   angleMode(DEGREES);
   textSize(25);
   fill(0,0,255)
@@ -30,7 +30,7 @@ function draw() {
   fill(255,0,255);
   noStroke();
   text("The logo is a password-behind it, a secret world is waiting.", 20,70);
-  fill(0);
+  fill(0,0,255);
   text(paragraph, int(windowWidth/3), windowHeight/4, int(windowWidth/3), windowHeight);
   fill(255,0,255);
   stroke(0,0,255);
