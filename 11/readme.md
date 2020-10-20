@@ -1,6 +1,6 @@
 # this is what i did in week eleven. 
 
-By spending this week playing rather than looking online at super advanced work and wondering 'how do I do that?,' I ended up achieveing the idea I had from my prototype!! Which I basically gave up on weeks ago because it was causing me to become manic and I was so stressed about it that I was even coding in my dreams- YES I was dreaming about my sketches (more like having nightmares). I am happy I adopted a new positive attitude, and returned to my design process of experimentation as happy accidents happened. 
+By spending this week playing rather than looking online at super advanced work and wondering 'how do I do that?,' I ended up achieving the idea I had from my prototype (jagged growing maze of words)!! Which I basically gave up on weeks ago because it was causing me to become manic and I was so stressed about it that I was even coding in my dreams- YES I was dreaming about my sketches (more like having nightmares). I am happy I adopted a new positive attitude, and returned to my design process of experimentation as happy accidents happened. 
 
 ![](screenshot1.png)
 ![](screenshot2.png)
