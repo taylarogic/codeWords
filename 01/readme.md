@@ -14,4 +14,4 @@ We were also introduced to Processing, and learnt how to code shapes, lines and 
 Our task for the week was to create our initials with the new skills we had learnt. I used isolated squares to form my letters, which allowed me to get used to x and y coordinates and I could also play around with changing the colour of each square by moving my mouse. 
 
 ![](TR_initials.jpg)
-![](t_r_screenshot.png)
+
