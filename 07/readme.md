@@ -5,3 +5,5 @@ Over the semester break I played around with coding mathematical roses and also 
 ![](idk.png)
 
 I also prototyped my project. With reference to the analogy of black metal logos resembling a maze, I decided to draw the word 'death' in a maze as the text mentions it would be essential for metal bands to feature that word. 
+
+![](mazeprototype.jpg)
