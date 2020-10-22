@@ -7,3 +7,5 @@ Over the semester break I played around with coding mathematical roses and also 
 I also prototyped my project. With reference to the analogy of black metal logos resembling a maze, I decided to draw the word 'death' in a maze as the text mentions it would be essential for metal bands to feature that word. 
 
 ![](mazeprototype.jpg)
+
+[WEEK 06](https://taylarogic.github.io/codeWords/06/)~~~>[WEEK 08](https://taylarogic.github.io/codeWords/08/)
