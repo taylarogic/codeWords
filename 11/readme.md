@@ -10,3 +10,5 @@ By spending this week playing rather than looking online at super advanced work 
 I emailed Andy for advice as I was concerned about making dramatic changes to my code not long before it was due. Andy said 'The key to getting it right is to respect a process, reflect on the work at the different stages of this process, rather than thinking that you need to find the perfect “solution” to a problem within a given period of time.' 
 
 I have accepted that my final work isn't something that I will have perfected or be 100% happy with, but it'll be something that I am able to feel very proud of. 
+
+[WEEK 10](https://taylarogic.github.io/codeWords/10/)~~~>[WEEK 12](https://taylarogic.github.io/codeWords/12/)
