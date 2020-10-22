@@ -15,3 +15,4 @@ Our task for the week was to create our initials with the new skills we had lear
 
 ![](TR_initials.jpg)
 
+[WEEK 02](https://taylarogic.github.io/codeWords/02/)
