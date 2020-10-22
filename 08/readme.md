@@ -3,4 +3,22 @@ This week I worked on my prototype further and wrote some pseudo code. I'm findi
 
 ![](MAZE.gif)
 
+>START
+>
+>IF mouse hovers over maze
+>
+>THEN maze will become clearer
+>
+>ELSE maze will appear typographic mess 
+
+
+>START
+>
+>IF mouse is pressed
+>
+>THEN type will grow
+>
+>ELSE screen will remain blank
+
+
 [WEEK 07](https://taylarogic.github.io/codeWords/08/)~~~>[WEEK 09](https://taylarogic.github.io/codeWords/09/)
