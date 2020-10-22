@@ -4,6 +4,7 @@ Karen ann demonstrated how to introduce typography to our Javascript sketch. The
 
 ![](spintypetest2.png)
 ![](spintypetest.png)
+[Click here to have a look](https://taylarogic.github.io/codeWords/04/HelloWorld/)
 
 We continued learning how to use Github to record our learning to form our SKO. 
 
