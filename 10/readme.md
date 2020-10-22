@@ -7,3 +7,5 @@ This week I incorporated sound into my sketch among other small refinements and 
 ![](WIP2.png)
 
 ![](WIP3.png)
+
+[WEEK 09](https://taylarogic.github.io/codeWords/09/)~~~>[WEEK 11](https://taylarogic.github.io/codeWords/11/)
