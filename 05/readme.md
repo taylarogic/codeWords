@@ -6,4 +6,6 @@ I really enjoyed this task. It didn’t really feel like an assignment. I believ
 
 ![](secondlife.png)
 
+[CLICK HERE TO WATCH](https://youtu.be/KQGvEqaG5Ro)
+
 [WEEK 04](https://taylarogic.github.io/codeWords/04/)~~~>[WEEK 06](https://taylarogic.github.io/codeWords/06/)
