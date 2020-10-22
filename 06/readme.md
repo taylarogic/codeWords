@@ -14,3 +14,5 @@ Key passages from the text that I will base my project on are:
 
 Karen ann also demonstrated how to code larger blocks of texts which will be very helpful for our major projects. 
 ![](text.png)
+
+[WEEK 05](https://taylarogic.github.io/codeWords/05/)~~~>[WEEK 07](https://taylarogic.github.io/codeWords/07/)
