@@ -5,3 +5,5 @@ I learnt how to put text on a curve and added a rotation which kinda looks maze-
 ![](spinningmaze.png)
 ![](deathrotate.png)
 ![](spinningmaze2.png)
+
+[WEEK 8](https://taylarogic.github.io/codeWords/08/)~~~>[WEEK 10](https://taylarogic.github.io/codeWords/10/)
