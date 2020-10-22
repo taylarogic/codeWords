@@ -12,5 +12,6 @@ We also made further progress on our assignment where we were tasked with reinte
 More learning on Processing was done, with experimentation with spirographs, which has further inspired me to play with code outside of class. We also were introduced to Github and created our first repository which will form our SKO. 
 
 ![](spirograph.png)
+[Click to see spirograph](https://taylarogic.github.io/codeWords/02/spirograph/)
 
 [WEEK 01](https://taylarogic.github.io/codeWords/01/)~~~>[WEEK 03](https://taylarogic.github.io/codeWords/03/)
