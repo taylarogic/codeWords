@@ -1,5 +1,5 @@
 # this is what i did in week eight. 
-This week I worked on my prototype further and wrote some pseudo code. I'm finding generating ideas quite easy and exciting, however the thought of translating them into code after prototyping is quite scary. I'm not entirely sure how I'm going to achieve the ideas I have thought of, but I am excited to try. My prototype focuses on a jagged maze that moves from legible to alphabet soup. The parallels between the illegibility of metal logos and the encryptions found in CAPTCHAS and barcodes made for an interesting commentary that initially drew me towards Metahaven’s text so I would like to explore ideas of passwords and trademarks, whereby one is publicly communicated and the other is not. My final work almost never ends up being my original idea, as it gradually transforms into something else. I have accepted that this is likely to happen as I'm not confident with coding yet. I hope to achieve something that I'm proud of and that hopefully mirrors the ideas in my paper prototypes.
+This week I worked on my prototype further and wrote some pseudo code. I'm finding generating ideas quite easy and exciting through prototyping, it is fast and efficient as well as helpful in terms of a guide. The thought of translating them into code, however, after prototyping is quite scary. I'm not entirely sure how I'm going to achieve the ideas I have thought of, but I am excited to try. My prototype focuses on a jagged maze that moves from legible to alphabet soup. The parallels between the illegibility of metal logos and the encryptions found in CAPTCHAS and barcodes made for an interesting commentary that initially drew me towards Metahaven’s text so I would like to explore these ideas of passwords and trademarks, whereby one is publicly communicated and the other is not. My final work almost never ends up being my original idea as it gradually transforms into something else. I have accepted that this is likely to happen as I'm not confident with coding yet. I hope to achieve something that I'm proud of and that hopefully mirrors the ideas in my paper prototypes.
 
 ![](MAZE.gif)
 
@@ -11,6 +11,7 @@ This week I worked on my prototype further and wrote some pseudo code. I'm findi
 >
 >ELSE maze will appear typographic mess 
 
+or
 
 >START
 >
@@ -20,5 +21,9 @@ This week I worked on my prototype further and wrote some pseudo code. I'm findi
 >
 >ELSE screen will remain blank
 
+
+### WEEK 8 UPDATE
+
+I've attempted a start to my sketch and I am struggling. Oh no. 
 
 [WEEK 07](https://taylarogic.github.io/codeWords/08/)~~~>[WEEK 09](https://taylarogic.github.io/codeWords/09/)
