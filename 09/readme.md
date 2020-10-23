@@ -6,4 +6,7 @@ I learnt how to put text on a curve and added a rotation which kinda looks maze-
 ![](deathrotate.png)
 ![](spinningmaze2.png)
 
+[Check out DEATHSPIN](https://taylarogic.github.io/codeWords/09/DEATHSPIN)
+[Click for spinning maze (https://taylarogic.github.io/codeWords/09/spinningmaze) 
+
 [WEEK 8](https://taylarogic.github.io/codeWords/08/)~~~>[WEEK 10](https://taylarogic.github.io/codeWords/10/)
