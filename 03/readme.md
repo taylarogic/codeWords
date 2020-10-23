@@ -1,6 +1,6 @@
 # this is what i did in week three.
 
-This week we learnt and did research on electronic literature such as generative texts and novels such as AI Dungeon, a generative text software we joined to create a story. We shared examples of e-lit and I found John Cayley's work to be interesting, especially Suflosi, where a translated passage changes; surfacing, floating, sinking.
+This week we learnt and did research on electronic literature such as generative texts and novels such as AI Dungeon, a generative text software we joined to create a story. We shared examples of e-lit and I found John Cayley's work to be interesting, especially [Suflosi](http://programmatology.shadoof.net/ritajs/suflosijs/index.html), where a translated passage changes; surfacing, floating, sinking.
 
 ![](suflosi.png)
 
