@@ -1,6 +1,6 @@
 # this is what i did in week six.
 
-For our major projects we are to research, develop, code and publish a digital version of a critical text. I chose Blackletter and Black Metal as my critical theory/text to base my assignment on as the concept of illegibility as code excited me. The encoding and encryption of the intricate, maze-like type, as opposed to clear communication is a narrative I'd like to translate in my project.
+For our major projects we are to research, develop, code and publish a digital version of a critical text. I chose Blackletter and Black Metal by [Metahaven](http://sprawl.space/) as my critical theory/text to base my assignment on as the concept of illegibility as code excited me. The encoding and encryption of the intricate, maze-like type, as opposed to clear communication is a narrative I'd like to translate in my project.
 
 Key passages from the text that I will base my project on are:
 
