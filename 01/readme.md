@@ -1,6 +1,6 @@
 # this is what i did in week one.
 
-We began the first lesson on a virtual walk in Minecraft Melbourne. I haven't played Minecraft since I was like eleven...
+We began the first lesson on a virtual walk in Minecraft Melbourne. 
 
 ![](IMG_2927.JPG) 
 
