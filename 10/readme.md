@@ -8,4 +8,6 @@ This week I incorporated sound into my sketch among other small refinements and 
 
 ![](WIP3.png)
 
+[Click for updated spinning maze with SOUND](https://taylarogic.github.io/codeWords/10/spinningmaze)
+
 [WEEK 09](https://taylarogic.github.io/codeWords/09/)~~~>[WEEK 11](https://taylarogic.github.io/codeWords/11/)
