@@ -6,7 +6,7 @@ Karen ann demonstrated how to introduce typography and different typefaces to ou
 ![](spintypetest.png)
 [Click here to have a look](https://taylarogic.github.io/codeWords/04/HelloWorld/)
 
-We continued learning how to use Github to record our learning to form our SKO. 
+We also continued learning how to use Github to record our learning to form our SKO. 
 
 ![](furzona.jpg)
 
