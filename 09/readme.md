@@ -1,5 +1,5 @@
 # this is what i did in week nine.
-This week I really struggled making a start on my code for the next assessment. Nothing was working the way I wanted it to and I was feeling defeated :(. Andy and Karen ann said as long as long as we placed one brick down we would be ok. I realised I had a bunch of bricks but no cement. I had a bunch of ideas but no solid foundation for them. I decided I would have to browse [OpenProcessing](https://www.openprocessing.org/browse/#) for some help. 
+This week I really struggled making a start on my code for the next assessment. Nothing was working the way I wanted it to and I was feeling defeated :(. Andy and Karen ann said as long as we placed one brick down we would be ok. I realised I had a bunch of bricks but no cement. I had a bunch of ideas but no solid foundation for them. I decided I would have to browse [OpenProcessing](https://www.openprocessing.org/browse/#) for some help. 
 
 ### WEEK 9 UPDATE
 
