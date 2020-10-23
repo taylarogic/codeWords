@@ -2,7 +2,9 @@
 # hello
 ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿)
 
- [Week 01](https://taylarogic.github.io/codeWords/01/)
+This is Tayla's codeWords repo. ok?
+
+ [Week 01](https://taylarogic.github.io/codeWords/01/) 
  
  [Week 02](https://taylarogic.github.io/codeWords/02/)
  
