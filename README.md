@@ -1,6 +1,5 @@
 # codeWords
-## hello
-( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿)
+## hello ( ͡▀̿ ̿ ͜ʖ ͡▀̿ ̿)
 
 This is Tayla's codeWords repo. ok?
 
