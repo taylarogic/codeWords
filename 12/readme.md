@@ -4,7 +4,7 @@
 
 [The final outcome](https://taylarogic.github.io/codeWords/12/metahaven)
 
-[Check out everyone's work here](https://simandy.github.io/codewords/)
+[Check out everyone's work here!](https://simandy.github.io/codewords/)
 
 In our final week we uploaded our final projects and got to see everyone's work which was so cool. I am so proud of my peers and what they achieved. 
 
