@@ -13,11 +13,11 @@ I like the password vs trademark commentary here.
 
 >'The logo of an underground black metal band had to be illegible-asymmetrical maze of jagged forms. The brand message of the illegible logo, of which there are now many thousands, is the visual personification of an idea of ‘Evil’-and with that, a carefully fabricated stance of rejection of the ‘modern world.’
 
-Here, black metal logos are described as an unconventional, rebellious form of design, rebelling against what is considered well communicated design. Also brings light to the subculture of metal bands and their fandoms; niche, cult-like and exclusive. This notion of exclusivity and inclusivity in design is also in relation to the password vs trademark example. 
+Here, black metal logos are described as an unconventional form of design, rebelling against what is considered well communicated design. The text also brings light to the subculture of metal bands and their fandoms; niche, cult-like and exclusive. This notion of exclusivity and inclusivity in design is also in relation to the password vs trademark example. 
 
 >'Black metal’s illegible logos functionally correspond to the age of individualism; they are more structurally similar to the bar code and the CAPTCHA than to the swastika. Whereas the Third Reich’s symbols and propaganda tools were mass communication devices meant for entire populations, black metal logos- especially when combined with extreme rightist political views- have come to symbolise the hatred of more or less specifically named others by preventing the public from reading the symbol. While the political views endorsing the aesthetic may be considered regressive and backward, its sense of visual method is not. It bridges the publicly visible and widely accepted notion of the ‘trademark’ with the privately defined idea of the ‘password.’
 
-Love this comparison to reCAPTCHA's. Will definitely be inspired to create something that communicates this in an uncommunicative way lol as it wouldn't be metal if it was clear and legible. 
+Love this comparison to reCAPTCHA's. Will definitely be inspired to create something that communicates this in an uncommunicative way (as it wouldn't be very metal of me to make it clear and legible).
 
 ![](blackletter.png)
 
