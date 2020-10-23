@@ -21,6 +21,7 @@ or
 >
 >ELSE screen will remain blank
 
+We also looked at p5 libraries which was insightful. We learnt how to implement p5.sound into our sketches and were shown function amplitutde() which was fun as we were able to play audio and relate it to typography. This will be another great skill to know for when we begin coding our projects. 
 
 ### WEEK 8 UPDATE
 
