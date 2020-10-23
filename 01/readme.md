@@ -8,7 +8,7 @@ Here we were introduced to the idea of digital performance art and e-literature 
 
 ![](3_dead-whats-your-point.jpg) 
 
-Andy showed us Joseph DeLappe's performance of an episode of Friends, where each player logged into the game as one the characters and recited their lines. The performers functioned as passive, neutral visitors to the game - killed and reincarnated to continue the performance. I checked out other gaming performances by him and thought they were sick.  
+Andy showed us [Joseph DeLappe's](http://www.delappe.net/) performance of an episode of Friends, where each player logged into the game as one the characters and recited their lines. The performers functioned as passive, neutral visitors to the game - killed and reincarnated to continue the performance. I checked out other gaming performances by him and thought they were sick.  
 
 We were also introduced to Processing, and learnt how to code shapes, lines and colours. 
 Our task for the week was to create our initials with the new skills we had learnt. I used isolated squares to form my letters, which allowed me to get used to x and y coordinates and I could also play around with changing the colour of each square by moving my mouse. 
